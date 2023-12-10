@@ -7,7 +7,7 @@ import {
   TextInput,
   TouchableOpacity,
 } from "react-native";
-
+//i was trying to do a lot more but i  could never figure out how to view the app and i was not able to get stuff done as easily not seeing it also some of this stuff is using code from the professor
 export default function App() {
   return (
     <View style={styles.container}>
